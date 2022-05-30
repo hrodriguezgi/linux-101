@@ -6,3 +6,10 @@
 .bash*
 venv-*/
 *.pyc
+.gitconfig
+.config*
+.gnupg
+.local*
+.ssh*
+.ipython*
+.cache*
