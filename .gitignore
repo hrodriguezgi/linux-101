@@ -1,0 +1,8 @@
+.DS_Store*
+.idea*
+.*pycache*
+.vscode*
+.env*
+.bash*
+venv-*/
+*.pyc
